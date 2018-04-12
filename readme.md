@@ -1,6 +1,6 @@
 # Pickle custom class
 
-Example of how to pickle an instance of custom object, so it is loadable from another file, without the need of importing the original module. Rip-off of [this SO answer](https://stackoverflow.com/questions/40287657/load-pickled-object-in-different-file-attribute-error).
+Example of how to pickle an instance of custom object, so it is loadable from another file, without the need of importing the original module. Rip-off of [this SO answer](https://stackoverflow.com/a/40288996/2144556).
 
 To create pickle file:
 ```
